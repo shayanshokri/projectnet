@@ -98,3 +98,12 @@ img {
 .table-style{
     text-align: center;
 }
+.search-title{
+    height: 100px;
+    width: 100%;
+    color: white;
+}
+.search-title-name{
+    text-align: center;
+    margin-top: 20px;
+}
